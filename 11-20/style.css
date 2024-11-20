@@ -1,0 +1,76 @@
+fieldset{
+    border: none;
+    width: 40%;
+}
+
+legend{
+    font-size: 28px;
+    font-family: sans-serif;
+}
+
+fieldset p{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+h2{
+    font-family: sans-serif;
+}
+
+header{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.btn a{
+    text-decoration-line: none;
+    font-size: 18px;
+    color: black;
+}
+
+.btn{
+    background-color: lightskyblue;
+    width: 100px;
+    margin-bottom: 2%;
+}
+
+img{
+    height: 400px;
+    width: 600px;
+}
+
+#main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#ohhNo{
+    margin-left: 30%;
+    margin-top: 20%;
+    font-size: 100px;
+}
+
+#link{
+    margin-left: 25%;
+    margin-top: 20%;
+    font-size: 50px;
+}
+
+#border{
+    border-bottom:solid black 2px;
+    width: 40%;
+}
+
+h3{
+    font-family: sans-serif;
+}
+
+#middle{
+    text-align: middle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
